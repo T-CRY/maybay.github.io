@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 沬北软件工作室 | Maybay Software Studio
 
-You can use the [editor on GitHub](https://github.com/T-CRY/maybay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+目前还懒得更新...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 标记
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“标记（三口井）”是一个使你的文本更美观的、轻量的、容易上手的符号。 It includes conventions for
 
 ```markdown
 Syntax highlighted code block
